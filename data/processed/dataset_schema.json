@@ -1,0 +1,11 @@
+{
+  "instruction": "string — describes the task for the model",
+  "input": "string — cleaned chunk of Terms & Conditions text",
+  "output": {
+    "summary": "array[string] — 3 to 6 bullet points in simple language",
+    "risk_score": "integer — value between 0 and 10",
+    "risk_level": "string — Low | Medium | High",
+    "key_risks": "array[string] — identified user risks",
+    "disclaimer": "string — legal disclaimer"
+  }
+}
