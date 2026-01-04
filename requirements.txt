@@ -1,0 +1,14 @@
+# Core
+requests
+python-dotenv
+tqdm
+
+# Data Processing
+pandas
+beautifulsoup4
+lxml
+
+# Backend (optional, for API)
+fastapi
+uvicorn
+pydantic
