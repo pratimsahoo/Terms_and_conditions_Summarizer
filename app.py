@@ -1,17 +1,20 @@
 import streamlit as st
-from src.ai_engine.interface import analyze_text, analyze_url
 
+from src.ai_engine.inference import run_inference
+from src.core.url_extractor import extract_tc_text
 
-# ------------------ STYLING ------------------
+# ------------------ GLOBAL STYLING ------------------
 st.markdown("""
 <style>
 header {visibility: hidden;}
 [data-testid="stToolbar"] {display: none;}
 [data-testid="stHeader"] {display: none;}
+
 [data-testid="stAppViewContainer"] {
     background: #020205 !important;
     color: white;
 }
+
 .full-summary-box {
     background: rgba(255,255,255,0.05);
     border-radius: 18px;
@@ -21,28 +24,37 @@ header {visibility: hidden;}
 </style>
 """, unsafe_allow_html=True)
 
-# ------------------ APP ------------------
+# ------------------ APP UI ------------------
 st.title("📜 Terms & Conditions Risk Analyzer")
 
 mode = st.radio("Choose input type", ["Paste Text", "Enter URL"])
 
-text = ""
-url = ""
+input_text = ""
 
 if mode == "Paste Text":
-    text = st.text_area("Paste Terms & Conditions", height=250)
+    input_text = st.text_area(
+        "Paste Terms & Conditions text",
+        height=250
+    )
 
 if mode == "Enter URL":
     url = st.text_input("Enter Terms & Conditions URL")
+    if url:
+        try:
+            with st.spinner("Extracting text from URL..."):
+                input_text = extract_tc_text(url)[:6000]
+        except Exception as e:
+            st.error(str(e))
+            input_text = ""
 
+
+# ------------------ ANALYZE ------------------
 if st.button("Analyze"):
-    if mode == "Paste Text" and not text.strip():
-        st.warning("Please paste some text.")
-    elif mode == "Enter URL" and not url.strip():
-        st.warning("Please enter a URL.")
+    if not input_text.strip():
+        st.warning("Please provide input text or URL.")
     else:
-        with st.spinner("Analyzing..."):
-            result = analyze_text(text) if mode == "Paste Text" else analyze_url(url)
+        with st.spinner("Analyzing using local AI model..."):
+            result = run_inference(input_text)
 
         st.markdown("<div class='full-summary-box'>", unsafe_allow_html=True)
 
@@ -58,4 +70,5 @@ if st.button("Analyze"):
             st.write("•", r)
 
         st.caption(result["disclaimer"])
+
         st.markdown("</div>", unsafe_allow_html=True)
