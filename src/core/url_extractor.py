@@ -1,6 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 
+from src.utils.url_normalizer import normalize_url
 
 HEADERS = {
     "User-Agent": (
@@ -14,19 +15,15 @@ HEADERS = {
 
 
 def extract_tc_text(url: str) -> str:
-    """
-    Extract visible text from a Terms & Conditions webpage.
-    Handles bot-protected websites gracefully.
-    """
+    url = normalize_url(url)
 
     try:
         response = requests.get(url, headers=HEADERS, timeout=20)
 
-        # Explicit handling for blocked sites
         if response.status_code == 403:
             raise ValueError(
                 "This website blocks automated access (HTTP 403). "
-                "Please copy-paste the Terms & Conditions text manually."
+                "Please copy‑paste the Terms & Conditions text manually."
             )
 
         response.raise_for_status()
@@ -39,8 +36,11 @@ def extract_tc_text(url: str) -> str:
         text = soup.get_text(separator=" ")
         text = " ".join(text.split())
 
-        if len(text) < 200:
-            raise ValueError("Extracted content is too short to be valid.")
+        if len(text) < 300:
+            raise ValueError(
+                "The provided URL does not appear to be a Terms & Conditions page. "
+                "Please provide a legal or policy page URL."
+            )
 
         return text
 
