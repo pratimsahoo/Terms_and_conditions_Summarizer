@@ -1,18 +1,55 @@
-from src.utils.generate_outputs import generate_output
-from src.core.url_extractor import extract_tc_text
+import json
+import re
+import requests
+from src.ai_engine.prompts import SYSTEM_PROMPT
+
+# -------------------------------------------------
+# Ollama configuration
+# -------------------------------------------------
+OLLAMA_URL = "http://localhost:11434/api/generate"
+MODEL_NAME = "mistral"
 
 
-def analyze_text(text: str) -> dict:
+# -------------------------------------------------
+# Helper: Extract JSON safely from model output
+# -------------------------------------------------
+def extract_json(text: str) -> dict:
     """
-    Analyze raw Terms & Conditions text.
+    Extracts the first valid JSON object from the model response.
     """
-    return generate_output(text)
+    match = re.search(r"\{[\s\S]*\}", text)
+    if not match:
+        raise ValueError("No JSON object found in model output")
+    return json.loads(match.group())
 
 
-def analyze_url(url: str, max_chars: int = 6000) -> dict:
+# -------------------------------------------------
+# Core inference function
+# -------------------------------------------------
+def run_inference(input_text: str) -> dict:
     """
-    Analyze Terms & Conditions from a URL.
+    Runs inference on Terms & Conditions text using local Mistral (Ollama).
     """
-    text = extract_tc_text(url)
-    text = text[:max_chars]
-    return generate_output(text)
+
+    payload = {
+        "model": MODEL_NAME,
+        "prompt": SYSTEM_PROMPT + "\n\nINPUT:\n" + input_text,
+        "stream": False
+    }
+
+    response = requests.post(OLLAMA_URL, json=payload, timeout=120)
+    response.raise_for_status()
+
+    raw_output = response.json().get("response", "").strip()
+
+    try:
+        return extract_json(raw_output)
+    except Exception:
+        # Safe fallback (never crash the app)
+        return {
+            "summary": ["Unable to parse structured model output"],
+            "risk_score": 5,
+            "risk_level": "Medium",
+            "key_risks": ["Unstructured or invalid model response"],
+            "disclaimer": "This is not legal advice."
+        }

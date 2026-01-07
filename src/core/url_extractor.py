@@ -2,28 +2,47 @@ import requests
 from bs4 import BeautifulSoup
 
 
+HEADERS = {
+    "User-Agent": (
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+        "AppleWebKit/537.36 (KHTML, like Gecko) "
+        "Chrome/120.0.0.0 Safari/537.36"
+    ),
+    "Accept-Language": "en-US,en;q=0.9",
+    "Referer": "https://www.google.com/",
+}
+
+
 def extract_tc_text(url: str) -> str:
     """
-    Fetches a webpage and extracts readable text content.
-    Designed for Terms & Conditions / Privacy Policy pages.
+    Extract visible text from a Terms & Conditions webpage.
+    Handles bot-protected websites gracefully.
     """
 
-    headers = {
-        "User-Agent": "Mozilla/5.0 (compatible; TOS-Summarizer/1.0)"
-    }
+    try:
+        response = requests.get(url, headers=HEADERS, timeout=20)
 
-    response = requests.get(url, headers=headers, timeout=20)
-    response.raise_for_status()
+        # Explicit handling for blocked sites
+        if response.status_code == 403:
+            raise ValueError(
+                "This website blocks automated access (HTTP 403). "
+                "Please copy-paste the Terms & Conditions text manually."
+            )
 
-    soup = BeautifulSoup(response.text, "lxml")
+        response.raise_for_status()
 
-    # Remove unwanted tags
-    for tag in soup(["script", "style", "noscript", "header", "footer", "nav"]):
-        tag.decompose()
+        soup = BeautifulSoup(response.text, "lxml")
 
-    text = soup.get_text(separator=" ")
+        for tag in soup(["script", "style", "noscript"]):
+            tag.decompose()
 
-    # Normalize whitespace
-    text = " ".join(text.split())
+        text = soup.get_text(separator=" ")
+        text = " ".join(text.split())
 
-    return text
+        if len(text) < 200:
+            raise ValueError("Extracted content is too short to be valid.")
+
+        return text
+
+    except requests.exceptions.RequestException as e:
+        raise ValueError(f"Failed to fetch URL: {str(e)}")
