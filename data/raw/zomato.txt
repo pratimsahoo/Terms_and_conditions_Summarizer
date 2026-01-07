@@ -1,0 +1,553 @@
+TERMS AND CONDITIONS OF RESTAURANT PARTNER ENROLMENT FORM FOR FOOD ORDERING AND DELIVERY SERVICES ("TERMS")
+These Terms form part of the Restaurant Partner Enrolment Form for Food Ordering and Delivery Services ("Form") and constitute a legally binding agreement made between you, whether personally or on behalf of an entity (the "Restaurant Partner"), and Eternal Limited (formerly known as Zomato Limited) and its affiliates (collectively, "Zomato"), regarding use of Zomato's Platform (as defined below) for the provision of Restaurant Services (as defined below) by the Restaurant Partner to the Customers (as defined below).
+
+1. Definitions
+i. "Asset Handover Form" means the form shared by Zomato, which includes details of the assets provided by Zomato to the Restaurant Partner and annexed to the Form.
+
+ii. "Calendar Month" means a month as named in the English calendar.
+
+iii. "Service fee (formerly known as Commission)" means the amount payable by the Restaurant Partner to Zomato, as set out in the Form.
+
+iv. "Customer" means users who place Orders through the Platform.
+
+v. "Customer Application" means the proprietary online website and/or mobile based Order placement application of Zomato available on the Platform, which enables the Customers to (a) place an Order with the Restaurant Partner for the purpose of availing Restaurant Services; and (b) track the status of the Order placed by such Customer with the Restaurant Partner; and (c) facilitates a provision of payment by the Customer towards the Restaurant Services availed from the Restaurant Partner.
+
+vi. "Customer Data" means any and all identifiable information about Customer provided by the Customer via the Platform, including, but not limited to, Customer’s name, delivery addresses, email addresses, phone numbers, and Customer preferences, to be governed by the Privacy Policy.
+
+vii. "Delivery Charges" means the delivery fee charged by the Delivery Partner from the Customers on each Order where Zomato facilitates delivery of an Order to the Customers.
+
+viii. "Delivery Surge" means an amount charged by the Delivery Partner from the Customers over and above the Delivery Charges on some Orders, determined on the basis of various factors including but not limited to order value, distance covered, time taken, demand for delivery, real time analysis of traffic and weather conditions, seasonal peaks or such other parameters as may be determined from time to time.
+
+ix. "Electronic Payment Mechanism" means the online and mobile based payment mechanisms including the third party payment gateways, credit card/debit card/net banking transfer and/or e-wallets and/ or Zomato credits that are available on the Platform for the purposes of facilitating the payment of the Order Value by the Customer.
+
+x. "Execution Date" means the date of execution of Form.
+
+xi. "Form" means the Restaurant Partner Enrolment Form for Food Ordering and Delivery Services executed by the Restaurant Partner.
+
+xii. "Gross Sales" means the gross amount charged by the Restaurant Partner to any Customer that is attributable to any Order placed through Zomato's Platform including all applicable taxes less discounts being offered by the Restaurant on Zomato’s Platform (if any).
+
+xiii. "Information" means the information set out and provided along with the Form and includes any information which is supplied by the Restaurant Partner to Zomato under these Terms such as Restaurant Partner’s name, establishment name, logo, the Menu items and images for menu items, the price lists underlying the Menu, opening hours of the restaurants operated by the Restaurant Partner, rates at which taxes are charged by the Restaurant Partner to the Customer, delivery areas serviced by the restaurants and/or delivery terms, specific information the Restaurant Partner is under an obligation to supply to Zomato (a) immediately on the Execution Date; or (b) within 1 (one) day from any change in such information.
+
+xiv. "Delivery Partner" means a third party service provider who collects Order(s) from the Restaurant and delivers it to the Customer location.
+
+xv. "Logistics Services" means facilitation services offered by Zomato wherein Zomato would connect the Restaurant Partner with Delivery Partner through its online technology platform, who shall pick Order(s) from the Restaurant, and deliver the same to the Customers.
+
+xvi. "Menu" means any document or virtual page, which lists out the items for sale offered by the Restaurant Partner to the Customer, on the Platform.
+
+xvii. "Menu Item Categorisation" means tagging with respect to food items between Restaurant Service and Supply of Foods and Beverages Items (as defined below) as confirmed by the Restaurant Partner to Zomato.
+
+xviii. "Merchant Application" means the Zomato developed Order management application pre-loaded in the Tablet and/ or Zomato Device which provides Restaurant Partner the ability to (a) receive an Order for the Restaurant Services; (b) allows the Restaurant Partner to accept or reject the Order within stipulated time; (c) provide updates on the Customers Order and its status; and (d) place a request for Logistics Services, if applicable.
+
+xix. "Multiple Outlet Entity" means the Restaurant, which has more than one outlet under the same ownership providing Restaurant Services.
+
+xx. "Net Order Value" means Order Value received, less the Service fee and any other additional amount, charges etc. that are due to Zomato from the Restaurant Partner under these Terms or the Form.
+
+xxi. "Net Sales" means the Gross Sales less applicable taxes charged by the Restaurant and delivery charge and any similar charges levied by the Restaurant (if any);
+
+xxii. "One Time Sign–Up Fee" means a one time non-refundable amount set out in the Form, payable by the Restaurant Partner when availing the Services for the first time from Zomato.
+
+xxiii. “Optional Services" means the optional services offered to the Restaurant Partner by Zomato from time to time.
+
+xxiv. "Order" means the placement of an order by the Customer with the Restaurant Partner for the purchase of any item via the Platform.
+
+xxv. "Order Value" means the amount which is payable by the Customer upon placement of an Order with the Restaurant Partner on the Platform for the Restaurant Service.
+
+xxvi. "Parties" means Zomato and the Restaurant Partner.
+
+xxvii. "Payment Mechanism Fee" means the amount payable by the Restaurant Partner to Zomato, being a % of Order Value including taxes less any charge not levied by Restaurant but collected by Zomato, as more specifically set out in the Form;
+
+xxviii. "Platform" means the Website and Customer Application owned and operated by Zomato.
+
+xxix. "Pre-Packaged Goods" means the food and beverages items packaged in such a manner that the contents cannot be changed without tampering it and which is ready for sale to the Customer and as may be defined under the Food Safety and Standards Act, 2006 from time to time.
+
+xxx. "Restaurant Partner Compensation Policy" means the compensation policy available at https://www.zomato.com/o2termscompensationpolicy/india and applicable to the Restaurant Partner in the event an Order is cancelled or rejected for reasons not attributable to the Restaurant Partner.
+
+xxxi. "Restaurant" means a commercial establishment(s) for which the Restaurant Partner is executing the Form, and from where the Restaurant Services are made available to the Customer, moreover wherein the food and beverage items are prepared and/or delivered to the Customer.
+
+xxxii. "Restaurant Partner" means the entity/individual being the legal owner of the Restaurant as mentioned in the Form.
+
+xxxiii. "Restaurant Service" means supply by way of service of food and beverages items attracting tax under Section 9(5) of the Central Goods and Services Tax Act, 2017, listed on the Menu from time to time, sold by the Restaurant, listed and advertised by the Restaurant Partner on the Platform.
+
+xxxiv. "Service Operator" means the Zomato operated centralized system used for receiving Orders from Customers through the Customer Application and transmitting those to the Restaurant Partner.
+
+xxxv. "Services" means the services offered by Zomato to the Restaurant Partner, on and from the Effective Date, including the following:
+
+Order placement and catalog hosting services: Zomato provides the Order placement mechanism for the Customers to place Orders with the Restaurant Partner on a real time basis and helps with listing of the menu and price lists as provided by the Restaurant Partner.
+Demand generation and marketing: Zomato helps bring new Customers to Restaurant Partner every day. This is done through targeted marketing, enabling appropriate discovery and creating a seamless food ordering experience.
+Logistics Services: Zomato creates competitive earning opportunities for Delivery Partners, with an intent to create a high quality and reliable delivery ecosystem for delivering Restaurant Partner’s Orders.
+Support for Customers, Restaurants and Delivery Partners: Customers, Restaurant Partner, and Delivery Partners all have unique needs that often need addressing immediately. Zomato has a team working 24*7/365 ready to help solve any issues, so that the Customers, Restaurants and Delivery Partners experience is seamless.
+Technology infrastructure: Zomato builds and supports products for Customers, Restaurants and Delivery Partners including payment infrastructure which requires high quality talent and investments.
+xxxvi. “Single Outlet Entity” means the Restaurant, which has only one outlet providing Restaurant Services.
+
+xxxvii. “Orders requiring support” means order where Zomato support teams extend additional support to mitigate customer escalations including but not limited to, delay in accepting or handing over the Order(s), poor quality food, missing or incorrect item, poor quality packaging, etc.
+
+xxxviii. "Supply of Food and Beverages Items" means supply of any food and beverages items, made by the Restaurant through the Platform, other than Restaurant Service attracting tax under Section 9(5) of the Central Goods and Services Tax Act, 2017,
+
+xxxix. "Tablet" means an electronic Order placement Tablet device preloaded with the Merchant Application.
+
+xl. "Website" means www.zomato.com (including the webpages contained or hyperlinked therein and owned or controlled by Zomato), and such other media or media channels, devices, mobile applications, software, or technologies as Zomato may choose from time to time.
+
+xli. "Zomato Device" means a smart phone loaded with the Merchant Application.
+
+2. Zomato’s Obligations:
+i. Zomato will (a) list Restaurant Partner’s menu and the price list on the Platform; and (b) transfer to the Restaurant Partner the amounts received from the Customers in accordance with agreed Terms set out herein.
+
+ii. Zomato will display on the Platform, on a best effort basis, all necessary information provided by the Restaurant Partner. However, Zomato is not under any obligation to display any information until the Restaurant Partner provides all required information and such information is in compliance with Zomato’s policies and guidelines.
+
+iii. Zomato will transmit the Orders placed by the Customer with the Restaurant Partner as per below:
+
+a. Restaurant Partner having Tablet or Zomato Device with pre-loaded Merchant Application or receiving Orders through a third party point of sale system or Zomato API or a Zomato provided web dashboard, Order transmission on a real time basis; or
+
+b. Restaurant Partner Device having the Merchant Application.
+
+c. Restaurant Partner using their own device, without Merchant Application to receive Orders: Order transmission through SMS and/ or phone call on an immediate basis through the Service Operator. In the event, the Restaurant Partner fails to answer the phone calls over a period of two (2) minutes, Zomato reserves the right to temporarily restrict/ deactivate Restaurant Partner's Food Ordering and Delivery services to avoid any Customer complaints. Restaurant Partner's access shall be reinstated upon specific request made to Zomato customer support center. Zomato reserves the right to cancel any Order where Restaurant Partner is unable to communicate its response within two (02) minutes on (a) acceptance/ rejection of the Customer Order and/ or (b) Order delivery timelines; or
+
+d. Where transmission of Order is to the Restaurant Partner owned device without Merchant Application, Zomato’s Service Operator shall communicate Customer Order to the Restaurant Partner (through SMS and/or phone call) and communicate Restaurant Partner response with respect to (i) acceptance / rejection of Order; (ii) delivery time; (iii) no-response from Restaurant Partner or any such information as may be made available by Zomato from time to time; to the Customer through Customer Application. The Restaurant Partner agrees that all communication undertaken by Zomato with the Restaurant Partner via phone call may be recorded.
+
+iv. Zomato will redress the Customers and the Restaurant Partner’s complaints in respect of the functioning of the Platform and/or the Tablet or Zomato Device (as the case may be).
+
+v. For the avoidance of doubt it is hereby expressly clarified that Zomato is only responsible for providing (i) a Platform to the Restaurant Partner to list, offer and sell the Restaurant Services to the Customers and/or (ii) Logistics Services (if applicable) and that Zomato will not be responsible or liable for (i) the quality of the Restaurant Services listed and advertised on the Platform; and/or (ii) the processing of the Orders which have been placed by the Customers with the Restaurant Partner on the Platform; and/or (iii) any delay in preparation of the Order by Restaurant Partner.
+
+vi. Zomato may suspend the Restaurant Partner’s account if the Restaurant Partner is found non-compliant with the Food Safety and Standards Act, 2006 and the rules, regulations, licenses, standards and guidelines issued thereunder from time to time.
+
+vii. While providing Logistics Services:
+
+a. Zomato shall not be responsible or liable for the delivery of Orders or any issues associated therewith unless, Restaurant Partner has contractually opted for Logistics Services from Zomato. Further, where the Restaurant Partner has opted for Logistics Services, Zomato shall only be responsible to tally the number of items ordered against the Order received. Restaurant Partner acknowledges and agrees that Zomato shall not be responsible for quality or quantity (if the packet of the Order is not tampered with during delivery) of the Order and the Restaurant Partner shall be solely responsible for the quality and quantity of the Order.
+
+b. In the event Restaurant Partner opts for Logistics Services, Restaurant Partner acknowledges and agrees that delivery will be facilitated by Zomato through a Delivery Partner. Restaurant Partner understands and agrees that Zomato shall not be responsible if the Delivery Partner indulges in theft of the Order or indulges in any illegal activity or misconduct against/with the Customer(s) and / or the staff of Restaurant Partner or indulges in any vandalism activity against the Restaurant Partner and/or the Restaurant. Please note that Zomato uses its best endeavors to fulfill the Logistics Services opted by the Restaurant Partner. Zomato has no control, in any manner whatsoever, with respect to the ratings or reviews received by the Restaurant Partner for the Logistics Services availed through Zomato, as such ratings are dependent on multiple factors including but not limited to each Customer’s experience with the Restaurant Partner and the Restaurant Services.
+
+c. The Restaurant Partner shall not hold Zomato liable for any claims, raised by the Customer where the delay in handing over the Order to the Delivery Partner is solely attributable to the Restaurant Partner and its staff.
+
+d. Zomato may at its sole discretion collect Delivery Charges and Delivery Surge from Customer for delivery of the Order.
+
+viii. Restaurant Partner acknowledges and agrees that Zomato is a mere facilitator in relation to the Logistics Services whereby Zomato facilitates logistics services by connecting Delivery Partner with Restaurant Partner for delivery of Order(s) from the Restaurant(s) to the Customer and hence cannot be held liable for any illegal / unlawful activity of the Delivery Partner.
+
+ix. Zomato shall provide the Restaurant Partner with a web dashboard in the event the Restaurant Partner has a designated device to access such web dashboard, high-speed internet connection and speakers.
+
+3. Restaurant Partner’s Obligations
+i. The Restaurant Partner will not discriminate while servicing Orders received from Customer ordering via the Platform. Restaurant Partner will not provide any preferential treatment to customers ordering independently from the Restaurant Partner (i.e. customers ordering directly from a Restaurant Partner).
+
+ii. The Restaurant Partner will respect the dignity and diversity of Delivery Partners and accordingly will not discriminate against any Delivery Partner on the basis of Discrimination Characteristics (as defined below). The Restaurant Partner is expected to enable provision of a secure and fearless gig work environment for the Delivery Partners including prevention and deterrence of harassment (including sexual harassment) towards Delivery Partners. For the purpose of these Terms, ‘Discrimination Characteristics’ shall mean discrimination based on race, community, religion, disability, gender, sexual orientation, gender identity, age (insofar as permitted by applicable laws to undertake the relevant gig work), genetic information, or any other legally protected status.
+
+iii. Restaurant Partner shall ensure that all mandatory information pertaining to taxes, levies, and charges applicable on the Order(s) are clearly visible to the Customers on their invoice issued for any supply other than Restaurant Service, as per the applicable laws. For the purpose of clarity, in the case of Restaurant Service(s), Zomato will generate the tax invoice on the Restaurant Partner’s behalf in accordance with the applicable GST laws and deposit the tax to the appropriate tax authorities.
+
+iv. Restaurant Partner will ensure that the Information provided to Zomato is current and accurate, including but not limited to the Restaurant Partner name, address, contact telephone number, email, manager/contact person details, delivery times, opening hours, Menu(s), price lists, taxes, Menu Item Categorisation, service addresses, and other relevant information.
+
+v. Restaurant Partner shall confirm to Zomato its Menu Item Categorisation between Restaurant Service and Supply of Foods and Beverages Items. Menu Item Categorisation as confirmed by the Restaurant Partner shall be consumed by Zomato for the purpose of undertaking necessary compliance with the applicable laws. In the event of a dispute in Menu Item Categorisation, the Restaurant Partner undertakes to make good any losses incurred by Zomato on account for any mis-declaration or mis-representation of facts.
+
+vi. Restaurant Partner shall ensure that it is the sole author/owner of, or otherwise controls all the content / material, including but not limited to the Restaurant Partner’s name, establishment name, logo, menu items, images of the food and beverages/ menu items, etc. transmitted or submitted by the Restaurant Partner to Zomato either through the Platform or otherwise (“Content”), or has been granted the right to use such Content from the rights holder of such Content and that it does not violate or infringe the rights of any third party or applicable laws;
+
+vii. Restaurant Partner shall process and execute the Order(s) promptly.
+
+viii. The Restaurant Partner shall be obligated to turn off “Accepting Delivery” feature on its food ordering mechanism whenever the Restaurant Partner is unable to provide Restaurant Services to the Customer.
+
+ix. Restaurant Partner acknowledges and agrees that in the event the Customer’s experience with the Restaurant Partner and the Restaurant Services is hampered on account of acts and omissions attributable to the Restaurant Partner, including but not limited to, frequent rejection of Order(s), Zomato reserves the right to take appropriate action in accordance with its policies, which may be amended from time to time.
+
+x. Restaurant Partner shall inform Zomato about any change or modification made to the Order by the Customer, directly with the Restaurant Partner.
+
+xi. Restaurant Partner hereby agrees that if it accepts the Order cancellation request raised by a Customer via the Platform for Restaurant Partner, it shall not be eligible to receive any Order Value or amount for such cancelled Order.
+
+xii. Restaurant Partner shall ensure that when a Customer pays online for an Order and the Restaurant Partner is undertaking logistics, the Restaurant Partner or its representative collects a signed receipt from the Customer upon delivery of the Order. In the event of a dispute in respect of whether the Restaurant Partner is entitled to a payment by Zomato in accordance with these Terms, Zomato will not be required to make any such payment unless the Restaurant Partner provides Zomato with a copy of the signed receipt.
+
+xiii. Restaurant Partner shall retain proof of delivery for a period of 180 days from the date of delivery.
+
+xiv. In the event the Restaurant Partner undertakes delivery of any Order, it shall ensure only trained personnel undertake such delivery and the safety of the food and beverage is not compromised at any time until the Order is received by the Customer. The Restaurant Partner agrees to indemnify Zomato for any claims that may arise on account delivery of Orders undertaken by the Restaurant Partner.
+
+xv. The Restaurant Partner warrants that the food and beverages provided to Customers are:
+
+a. of high quality and fit for human consumption;
+
+b. compliant with Food Safety and Standards Act, 2006 and the rules, regulations, licenses, standards and guidelines issued thereunder;
+
+c. compliant with all other relevant Indian legislation, including all applicable food industry regulations.
+
+xvi. Where the Restaurant Partner avails any Optional Services, the Restaurant Partner will additionally be liable to abide with the terms and conditions of such Optional Services or any other terms and conditions pertaining to the Optional Services, communicated by Zomato from time to time.
+
+xvii. Contact a Customer if an Order cannot be processed as requested or to clarify the details of an Order, if required, post confirmation of the Order.
+
+xviii. The Restaurant Partner shall contact a Customer if an Order cannot be processed as requested or to clarify the details of an Order, if required, post confirmation of the Order.
+
+xix. To promptly redress the Customer complaints which have been referred by Zomato to the Restaurant Partner in respect of the (a) quality, quantity and/or taste of the food and beverage; (b) delivery of the Orders (where such delivery has been undertaken by the Restaurant Partner and the delivery issues are attributable directly to the Restaurant Partner); and (c) failure on part of the Restaurant Partner to comply with the special requests / instructions of the Customers where such requests and/or instructions have been clearly communicated by the Customer at the time of the placement of Order.
+
+xx. The Restaurant Partner shall remove any/all menu items unavailable with the Restaurant Partner.
+
+xxi. The Restaurant Partner acknowledges and agrees that it will be solely responsible for delivering the Order placed by the Customers (where it is not availing Logistics Services) with the Restaurant Partner on the Platform. Unless agreed to by the Restaurant Partner in the Form, it is clarified that Zomato will not provide any Logistics Services.
+
+xxii. For the avoidance of doubt it is hereby expressly clarified that Zomato is not responsible or liable to the Customer for the (a) quality of the Restaurant Service advertised on the Platform; and/or (b) processing of the Order; (c) delivery of the Orders (unless Logistics Services are provided by Zomato) that have been placed by the Customers with the Restaurant Partner through the Platform; and (d) misconduct / illegal activity of the Delivery Partner. The Restaurant Partner acknowledges and agrees that it will be solely responsible and liable to the Customer for the (a) quality of the Restaurant Service listed and advertised on the Platform; and/or (b) processing of the Order and (c) timely delivery of the Orders (unless Logistics Services are provided by Zomato) that have been placed by the Customers with it on the Platform.
+
+xxiii. The Restaurant Partner shall ensure that the Order(s) are (a) in accordance with Order placed by the Customer; and (b) appropriately packed and adequately fastened to avoid any spillage during the transportation. Restaurant Partner understands that the Order will be in transit for the period of delivery from the Restaurant to the Customer and the Restaurant Partner shall ensure that this is taken into consideration while accepting and preparing the same.
+
+xxiv. Restaurant Partner shall (a) undertake adequate police verification and background checks for its delivery personnel and maintain records of the same; (b) ensure that the delivery personnel are not intoxicated; (c) ensure that delivery personnel don’t misbehave with the Customer; (d) make timely payment of all applicable statutory dues; (e) maintain adequate insurances; and (f) provide proper training to its delivery personnel to ensure delivery personnel deliver the Order efficiently without any spillage or delay.
+
+xxv. Restaurant Partner shall ensure, while making deliveries, it does not commingle the Order along with other orders it receives directly from customers or from third parties not using the Platform. Restaurant Partner shall pack the Order either in Zomato provided packing material or other packaging material. However, under no circumstances shall the Restaurant Partner use third party branding in the packaging material used for the Order.
+
+xxvi. Restaurant Partner shall address and resolve all Customer complaints received by Zomato relating to the efficacy, quality or any other issues relating to the Restaurant Services expeditiously within timelines prescribed by the Ministry of Consumer Affairs or any other authority from time to time. Further the Restaurant Partner shall be solely liable and bound to take action on complaints raised by Customer pertaining to the Order(s).
+
+xxvii. Restaurant Partner acknowledges and agrees that Restaurant Partner shall be required to furnish a copy of its PAN Card, TAN, GSTIN, FSSAI license and registration certificates and other details required as per law or for provision of Services, as maybe requisitioned by Zomato from time to time failing which, Zomato reserves the right to delist the Restaurant Partner from the Platform and / or curtail it’s access from the Platform.
+
+xxviii. Where Restaurant Partner avails Logistics Services from Zomato, Restaurant Partner shall ensure that it hands over all Orders to the Zomato authorized delivery personnel in a spill proof packaging.
+
+xxix. The Restaurant Partner shall comply with the applicable law on the ban of single-use plastic and shall ensure that neither single-use plastic is used in packing any Order nor is any cutlery made from single-use plastic provided with the Order. Restaurant Partner agrees and acknowledges that Zomato shall reserve a right to cancel all Orders that are packed by the Restaurant Partner using single-use plastic and any payment made to the Delivery Partner assigned to such orders or refund/compensation made by Zomato to the Customers whose Orders are cancelled shall be recovered from Restaurant Partner in accordance with Zomato’s cancellation policy. Further, any loss suffered by Zomato or the Delivery Partner due to use of single-use plastic by Restaurant Partner, whether on account of any fine imposed by the authorities on Zomato or its Delivery Partner or otherwise, shall be recovered from the Restaurant Partner by making deductions in accordance to the payment settlement process agreed under these Terms.
+
+xxx. Furthermore, where Zomato provides Logistics Services, the Restaurant Partner shall ensure that the Order is ready at the time the Delivery Partner arrives to collect the Order. Where the Restaurant Partner fails to handover the Order to the Delivery Partner within the indicated kitchen preparation time, Restaurant Partner shall be responsible for any and all issues and costs associated with delayed delivery including costs associated with reimbursing the Customer.
+
+xxxi. Restaurant Partner acknowledges and agrees that it shall not make any independent calls to the Customer and asks the Customer to make payments of amounts greater than what was agreed by the Customer at the time of placing the Order through the Platform.
+
+xxxii. Restaurant Partner except required for the fulfillment of Order shall not use the Customer data for sending any unsolicited marketing message, announcements.
+
+xxxiii. Restaurant Partner shall not engage in any fraudulent activity or misuse any benefits extended by Zomato to Customers and shall be liable to Zomato in the event Zomato becomes aware of any fraudulent activity undertaken by the Restaurant Partner.
+
+xxxiv. Restaurant Partner shall not charge any delivery and/or Payment Mechanism Fee charges from Customers on Orders where Restaurant Partner is not undertaking delivery itself.
+
+xxxv. Where Restaurant Partner avail Logistics Services under hybrid model and opts to not avail Logistics Services through Zomato, Restaurant Partner shall be responsible to deliver the Order to the Customer.
+
+xxxvi. Restaurant Partner shall ensure to update the Merchant Application as and when the latest version of the application is available.
+
+xxxvii. Restaurant Partner acknowledges and agrees that any asset, such as POS machines/ credit card/debit card swipe machines, bags etc., provided by it to the Logistics Personnel, whether with or without the consent of Zomato, shall be at its sole risk. Restaurant Partner agrees and undertakes that it shall be solely liable if any such asset provided to the Logistics Personnel, is damaged, stolen or not returned by the Logistics Personnel,, and Zomato shall not be liable to indemnify the Restaurant Partner for the same and / or bear cost of the asset.
+
+xxxviii. Restaurant Partner shall ensure to protect and maintain the Customer experience on the Platform by accurately displaying the details of the Restaurant including but not limited to item names & images in the Menu.
+
+xxxix. The Restaurant Partner shall not charge the Customer for anything other than food, beverages, and packaging charges on the Platform. The Restaurant Partner shall ensure that all menu item(s) available for delivery to the Customers through its delivery channels from its own Restaurant or franchise locations or its other channels like websites/apps etc, shall also be made available for delivery to the Customers through the Platform.
+
+Restaurant Partner understands and agrees that having similar item names and images in the Menu of two or more Restaurant listings operating from the same location may cause confusion for the Customers and hamper their experience on the Platform.
+
+It is further clarified that, in the event, the Restaurant listings are found to be in violation of this term xxxix, then Zomato shall notify the Restaurant Partner by giving a 30 (thirty) day written notice to make the necessary changes and correct the Restaurant listings. However, in case the Restaurant Partner fails to correct the Restaurant listings, then Zomato reserves the right to take appropriate action, which may include removing all the duplicate listings from the Platform, in accordance with its policies and these Terms.
+
+xl. Zomato Gold
+Where a Restaurant Partner has voluntarily agreed to sign up for Zomato Gold, which is a subscription-based program of Zomato allowing a customer having a valid Zomato Gold membership ("Zomato Gold Customer") to avail Discount (defined below) extended by the restaurants partnered with Zomato ("Zomato Gold"), Restaurant Partner agrees to the following terms and conditions:
+
+a. Discount: The Restaurant agrees to extend the percentage of discount or a flat discount to the Zomato Gold Customer, as agreed by the Restaurant Partner in writing on the Gross Sales ("Discount") for every Order that is received from a Zomato Gold Customer, provided that the Order Value for such Order is above the minimum Order Value as agreed by the Restaurant Partner ("Minimum Order Value").
+
+b. The Restaurant Partner hereby permits Zomato to deduct the amount towards Discount as per the clause 9 (Payment Settlement Process) set out herein below in the Terms.
+
+c. The Discount can be combined with any other offers or discounts or deals, or combos extended by the Restaurant Partner or Zomato or any other third party on such Order.
+
+d. The Discount is valid on all days and at all times during the operational hours of the Restaurant.
+
+e. The Discount shall be extended to Zomato Gold Customer on all food & beverages items (including Restaurant Services) on the Menu except items sold by the Restaurant Partner on MRP and spirits and delivery services where delivery is undertaken by Restaurant Partner.
+
+f. The Discount is valid only on delivery orders.
+
+g. The arrangement between the parties shall commence from the Commencement Date and shall be valid and binding on the parties unless terminated in accordance with these terms.
+
+h. Either party may terminate this Addendum by giving seven (7) days prior written notice of termination to the other party.
+
+i. Termination of Zomato Gold terms shall have no effect on the Form and Terms for food ordering and delivery services and they shall continue to subsist.
+
+j. Zomato may modify these terms from time to time, and any such changes will be effective immediately upon the changes being reflected on the Platform.
+
+k. Zomato reserves the right to alter, modify, extend or discontinue Zomato Gold at any time. In the event, Zomato changes or modifies Zomato Gold program and Restaurant Partner does not wish to continue as a Zomato Gold partner, Restaurant Partner reserves the right to terminate Zomato Gold by giving a fifteen (15) days written notice to Zomato which shall be without payment of any Termination Fee.
+
+xli. Restaurant Partner with Tablets and Zomato Device (With Embedded Merchant Application):
+
+a. Shall ensure it has a functional Tablet / Zomato Device at all times in order to receive and confirm Customer Orders and provide estimates of delivery times or reject the Order through the Merchant Application;
+
+b. may decline Orders through the Tablet / Zomato Device provided however, Restaurant Partner shall not use alternate means (phone/ emails) to connect with the Customer in parallel to take the same Orders and thereby circumventing the process;
+
+c. Execute the Orders promptly and indicate the estimated time of delivery to process the Order delivery including updating the Order status (e.g. out for delivery etc.) through the Merchant Application.
+
+xlii. Restaurant Partner with Restaurant Partner Device (Without Embedded Merchant Application):
+
+i. Ensuring it has a functional Restaurant Partner Device at all times in Order to a) receive / reject Orders, b) provide estimates of delivery time, c) communicate with Service Operators through phone call and/or SMS.
+
+ii. Restaurant Partner may decline Customer Orders placed through the Service Operator however, Restaurant Partner shall not use alternate means (phone/ emails) to connect with the Customer in parallel to take the same Orders and thereby circumventing the process.
+
+xliii. Promotions
+Where a Restaurant Partner has agreed to extend Promotions (as defined below) to Customers on Order placed at the Restaurant via the Platform the Restaurant Partner agrees to the following terms and conditions (“Promotion Terms”):
+
+a. These Promotion Terms apply to a Restaurant Partner’s engagement in Promotions pursuant to which the Restaurant Partner shall extend discounts or offers, as the case may be, to Customers on Order(s) placed with the Restaurant Partner via the Platform.
+
+b. These Promotion Terms do not alter in any way, the terms or conditions of any other agreement the Restaurant Partner may have with Zomato.
+
+c. Unless the context otherwise requires, the capitalized terms used herein and not otherwise defined shall have the meaning assigned to them in the Terms.
+
+d. By accepting to sign up for Promotions, the Restaurant Partner hereby agrees to the below:
+
+i. The Restaurant Partner hereby acknowledges and agrees that it shall determine and make available Promotions to Customers at its sole discretion.
+
+ii. For the purpose of these Promotion Terms, “Promotions” shall mean the discounts or offers determined and made available for Customers on Orders placed with the Restaurant Partners via the Zomato Platform. The Promotions are only valid on food ordering and delivery.
+
+iii. The Restaurant Partner hereby agrees that the cost of discount under the Promotions shall be completely funded by the Restaurant Partner.
+
+iv. The Restaurant Partner at its sole discretion shall determine the details and validity period of the Promotions.
+
+v. The Restaurant Partner acknowledges and agrees that the Promotions once determined and made available via the Zomato Platform cannot be modified during the validity period of such Promotions. However, the Restaurant Partner may replace a Promotion with a new (modified) Promotion, after giving due notice to Zomato.
+
+vi. The Promotions during the validity period, may be suspended or revoked any time at the Restaurant Partner’s sole discretion.
+
+vii. The Restaurant Partner can have any number of Promotions running at a given time.
+
+viii. Unless otherwise specified, the Promotions can be combined with any other offers extended by the Restaurant Partner or Zomato or any other third party.
+
+e. The Restaurant Partner hereby agrees to indemnify and hold Zomato and its directors, officers, agents, representatives and employees, harmless from and against any and all claims, suits, liabilities, judgments, losses and damages arising out of or in connection with (a) any claim or suit or demand on account of Restaurant Partner failing to honor any Promotions; and/or (b) breach of any applicable law.
+
+f. You hereby agree and acknowledge that Zomato has no role or responsibility towards the Promotion(s) and will not be liable to the Restaurant Partner or the Customer for any claim relating to the Promotion(s).
+
+g. The Promotion(s) are subject to Zomato’s approval. Zomato reserves the right to reject or remove the Promotion(s) at any time, for reasons communicated to the Restaurant Partner.
+
+h. Zomato will determine, in its sole discretion, the placement, and positioning of the Promotion(s) on the Zomato Platform.
+
+i. Zomato does not guarantee the reach or performance of the Promotion(s).
+
+j. The Restaurant Partner is solely liable for compliance with all applicable laws relating to the Promotions.
+
+k. The arrangement between the parties shall commence from the date of acceptance of these Promotion Terms by the Restaurant Partner and shall be valid and binding unless terminated in accordance with these Promotion Terms.
+
+l. The Restaurant Partner may at any time opt out of Promotions without any prior notice to Zomato.
+
+m. Zomato may terminate the arrangement at any time with a one (1) day prior written notice of termination to the Restaurant Partner.
+
+n. Notwithstanding anything to the contrary contained herein, Zomato may forthwith suspend and/or terminate the Services if the Restaurant Partner is in breach of these Promotion Terms and such breach has not been rectified within five (5) days of notice of breach.
+
+o. Zomato reserves the right to modify the Promotion Terms after prior notice and without liability to the Restaurant Partner. Any such changes will be effective immediately upon the changes being reflected on the Terms.
+
+p. Zomato reserves the right to discontinue the Promotions at its own discretion at any time, without any notice or liability to the Restaurant Partner if the same is necessitated due to legal or regulatory requirements. In case of occurrence of such discontinuance, the Restaurant Partner will be provided with adequate reasons for discontinuation of Promotions in due course.
+
+q. Termination of these Promotion Terms shall have no effect on these Terms.
+
+r. All the rights, duties, liabilities and obligations of the respective parties under the Terms shall form an integral part of these Promotion Terms and shall remain unaltered by these Promotion Terms.
+
+s. Except as provided herein and varied/modified, the Terms shall continue to have full force and effect.
+
+t. For any help or queries with regard to Promotions, you may reach out via the help center on the Merchant Application.
+
+4. License
+Restaurant Partner grants to Zomato an unrestricted, non-exclusive, royalty-free licence in respect of all Content (defined hereinabove) and Information provided to Zomato by the Restaurant Partner for the purposes of inclusion on the Platform and as may be otherwise required under the Form. This includes, but is not limited to, (a) use of the Restaurant Partner’s name in the context of Google adwords to support advertising and promotional campaigns to promote food ordering and delivery on internet which may be undertaken by Zomato (b) preparation of derivative works of, or incorporate into other works, all or any portion of the marketing materials which will be made by Zomato for the purposes of its business.
+
+Any Content, information or material that the Restaurant Partner transmits or submits to Zomato either through the Platform or otherwise shall be considered and may be treated by Zomato as non-confidential, subject to Zomato’s obligations under relevant data protection legislation.
+
+The Restaurant Partner also grants to Zomato a royalty-free, perpetual, irrevocable, non-exclusive license to use, copy, modify, adapt, translate, publish and distribute world-wide any Content, information or material for the purposes of providing Services under these Terms or to or for the purposes of advertising and promotion of the Platform. The Restaurant Partner agrees that all Content , information or material provided to Zomato that is published on the Platform, may be relied upon and viewed by Customers to enable them to make informed decisions at the prepurchase stage.
+
+5. Restaurant Partner Menu and Price List
+i. Zomato will display on the Platform the menu and price list for all of its Restaurant Partner. The Restaurant Partner agrees that Zomato reserves the right to modify and delete certain items from the Restaurant Partner’s menu list at its sole discretion, listed on the Platform, to ensure compliance with Food Safety and Standards Act, 2006, requirements or applicable law in the relevant State or Territory and all other applicable legislation, regulations or regulatory standards. Zomato shall endeavour to update price lists within 48 hours of being notified of changes (in writing) by a Restaurant Partner. Where the Restaurant Partner has a unilateral right to access Restaurant Partner admin panel or dashboard (subject to Zomato’s written consent in this regard) to edit and update the Information which is displayed on the Platform by Zomato, the Restaurant Partner should ensure that it (i) keeps such information true, accurate and updated at all times; and (ii) complies with Zomato’s internal terms and conditions of use in this regard and (iii) intimates to Zomato about such change.
+
+ii. Restaurant Partner shall provide Zomato with a separate list of all Pre-Packaged Goods which form part of the Restaurant Partner’s menu list, to be listed on the Platform, in the format acceptable to Zomato.
+
+iii. The Restaurant Partner shall ensure that the Pre-Packaged Goods listed on the Platform shall have shelf life of 30 percent or forty-five (45) days before expiry at the time of delivery to the Customers.
+
+iv. The Restaurant Partner will, at all times, maintain equal or lower prices for all its products offered to the Customers via the Platform as against that made available for sale through its direct channels including dine-in, takeaway or delivery from its own Restaurant or franchise locations or its other channels like websites/apps etc. For the purpose of clarity, pricing of products shall include pricing of food and beverage items, charges for packaging, etc.
+
+v. If the Restaurant Partner creates special portion sizes for the Platform, compared to portion sizes on its own channel(s) (i.e., dine-in, delivery or takeaway), pricing should be proportionate or lower for the menu on the Platform.
+
+vi. In the event the Restaurant Partner fails to maintain prices as per the aforementioned paras under clauses iv. and v., Zomato reserves the right to take appropriate action in accordance with its policies, which may be amended from time to time.
+
+vii. The Restaurant Partner shall not charge an amount over and above the maximum retail price ("MRP") for all such food and beverage items which have MRP mentioned on them.
+
+viii. The Restaurant Partner acknowledges and agrees that Zomato will use its best endeavours to ensure that the Platform is not misused by the Customers for the placement of erroneous/fraudulent Orders. In the event of an erroneous/fraudulent Order, the Restaurant Partner undertakes to report such an erroneous/fraudulent Order to Zomato through the Tablet or Zomato Device or call Zomato for Zomato’s action and investigation. In this regard, Zomato provides a built-in feature(s) in the Merchant Application and web dashboard access that will allow the Restaurant Partner to report such erroneous/fraudulent Orders.
+
+ix. Zomato may perform a variety of marketing activities to promote the Restaurant Partner and the Restaurant Partner's menu; provided, however, that all such marketing activities will be determined in Zomato’s sole and absolute discretion and the Platform may be modified or updated, without notice and from time to time, to reflect any such changes.
+
+6. Use of Zomato Tablet or Zomato Device
+i. In the event Zomato provides the Restaurant Partner with the Tablet or Zomato Device, the Tablet or Zomato Device shall be used by the Restaurant Partner solely for the purpose of (a) confirming, cancelling and accessing the Order; (b) reviewing the particulars underlying the Orders; (c) updating the Order status; (d) communicating with Zomato; (e) reporting erroneous Orders; (f) availing Logistics Services and/or (g) any other use that may be prescribed in writing by Zomato in this regard.
+
+ii. The Restaurant Partner undertakes to use the Tablet or Zomato Device in compliance with the instructions for use that may be issued by Zomato from time to time in this regard. In particular, the Restaurant Partner shall not remove the preloaded SIM Card from the Tablet or Zomato Device and/or make/receive calls, text messages etc. using the SIM Card under any circumstances whatsoever. It is clarified that the SIM Card has been issued to Zomato (in Zomato’s name) by a third party telecom service provider and that Zomato has in turn transferred to the Restaurant Partner a limited right to use this SIM Card, for the duration specified in the Form, exclusively for the purposes of confirming or declining the placement of Orders.
+
+iii. The Restaurant Partner acknowledges and agrees that any unauthorized use or misuse of the SIM Card by the Restaurant Partner (i) shall be considered as a material breach of these Terms; and/or (ii) will render the Restaurant Partner liable for action under the relevant applicable laws.
+
+iv. On the delivery of the Tablet or Zomato Device by Zomato to the Zomato Device, the Restaurant Partner will be required to acknowledge the receipt of the Tablet or Zomato Device in writing by executing an Asset Handover Form in the format annexed to the Form.
+
+v. The Restaurant Partner acknowledges and agrees that these Terms envisage the grant of a limited, non-exclusive, non-transferable, royalty free license from Zomato to the Restaurant Partner for the use of the Tablet or Zomato Device together with the Merchant Application embedded in the Tablet or Zomato Device (only during the subsistence of these Terms). The Restaurant Partner undertakes to and shall use the Merchant Application and the Tablet or Zomato Device only for the purposes prescribed under these Terms and that the Restaurant Partner should not violate the intellectual property rights of Zomato over and in respect of the Tablet and the Merchant Application at any point in time.
+
+vi. In the event the Restaurant Partner or its employees or representatives damage the Tablet or Zomato Device or any of its accessories provided by Zomato, Zomato shall replace the same at additional cost to the Restaurant Partner and/or charge the Restaurant Partner for such loss.
+
+vii. The Restaurant Partner undertakes to return the Tablet or Zomato Device along with the accessories (in a full working condition) to Zomato immediately upon the termination of these Terms or when requested by Zomato. The Tablet or Zomato Device will be collected by Zomato from the Restaurant Partner through its authorized representatives specifically designated by Zomato to collect the same from the Restaurant Partner. The Restaurant Partner acknowledges and agrees that any failure on part of the Restaurant Partner in returning the Tablet or Zomato Device (whenever requisitioned by Zomato or upon the termination of these Terms) will make the Restaurant Partner liable to pay Zomato towards such failure or appropriate action under applicable laws.
+
+viii. The Restaurant Partner acknowledges and agrees that Zomato is not the manufacturer of the Tablet or Zomato Device provided hereunder. Therefore, Zomato cannot provide any warranties or guarantees viz-a- viz the quality, merchantability, durability of the Tablet or Zomato Device. The Restaurant Partner acknowledges using the Tablet or Zomato Device keeping the aforementioned information in mind.
+
+ix. The Restaurant Partner agrees that Zomato shall be entitled to recover from the Restaurant Partner, all amounts towards lost and/ or damaged Zomato Device and/ or Tablet and associated accessories provided to the Restaurant Partner by Zomato. The Restaurant Partner acknowledges and agrees that Zomato shall be entitled to recover:
+
+a. For refurbished Zomato Device: (i) in the event of a physical damage, Zomato shall be entitled to recover the full amount of the Zomato Device, (ii) for any software issue which occurs within three months from the date Zomato Device is issued to the Restaurant Partner, Zomato shall replace the same, however, for any software issue that occurs after three (3)months, Zomato shall be entitled to recover the full amount of the Zomato Device.
+
+b. For new Zomato Device: (i) in the event of a physical damage, Zomato shall be entitled to recover the full amount of the Zomato Device, (ii) for any software issue which occurs within six months from the date Zomato Device is issued to the Restaurant Partner, Zomato shall replace the same, however, for any software issue that occurs after six (6) months Zomato shall be entitled to recover the full amount of the Zomato Device.
+
+c. INR16,000/- towards lost and/ or damage caused to a Tablet and INR 500/- towards lost and/ or damage caused to accessories of the Tablet or Zomato Device.
+
+7. Payments Mechanism
+i. The Restaurant Partner acknowledges and agrees that the Platform will provide the following payment mechanisms to the Customers for the payment of the Order Value:
+
+a. Cash on delivery;
+
+b. Electronic Payment Mechanism; and
+
+c. Redemption of vouchers and/or discount coupons (if any) approved by Zomato.
+
+ii. The Restaurant Partner acknowledges and agrees that Zomato will provide the Restaurant Partner with a monthly invoice within a period of 7 (seven) days from the last date of the preceding month for the Service fee, Payment Mechanism Fee, refund charges, One Time Sign Up Fee and other amounts, charges that is payable by the Restaurant Partner to Zomato in respect of the applicable Orders.
+
+iii. Invoices will be sent to the Restaurant Partner by email. All invoices shall be issued from the respective state registered office of Zomato from where the Services are being performed by Zomato in order to comply with the provisions of Goods & Services Tax (GST) laws applicable in India. The list of respective state Zomato’s registered offices of Zomato across India is available at Licenses.
+
+iv. The Restaurant Partner acknowledges and agrees that all amounts that are payable to Zomato under these Terms shall be exclusive of the applicable taxes and that all applicable taxes will be charged separately.
+
+8. Obligations of Parties in Case of Online Payment Orders
+i. The Restaurant Partner must meet all of the following requirements when it receives an online payment Order:
+
+a. ensure that it does not receive any additional payment from a Customer (including but not limited to payment by cash) when payment has been made online by a Customer;
+
+b. follow all special instructions contained on the Order receipt or as communicated by Service Operator; and
+
+c. obtain a signature from the Customer acknowledging receipt of the Order when the Restaurant Partner undertakes delivery of the Orders independently or through third parties, other than Zomato.
+
+ii. If the Restaurant Partner has not complied with the delivery instructions (as set forth in this Order receipt) or has supplied bad quality food products to the Customer, whereby Zomato has (pursuant to the Customer’s complaint) been constrained to refund the Order Value to the Customer ("Problem Order") in any manner, the Restaurant Partner acknowledges and agrees that the Restaurant Partner will not be paid for such Problem Order and that if the Restaurant Partner has already received the Order Value from Zomato in respect of such Problem Order (subject to the appropriate reductions under Clause 10), Zomato will have a right in accordance with these Terms to deduct or offset such amount from or against any monies that are owed by Zomato to the Restaurant Partner (in respect of future Orders) under these Terms.
+
+iii. Restaurant Partner shall disclose all relevant details pertaining to Problem Order(s) with Zomato, if required by Zomato.
+
+iv. Zomato will communicate promptly with its bank if it becomes aware of any fraud having been committed by a Customer.
+
+9. Payment Settlement Process
+i. The Restaurant Partner acknowledges and agrees that any Order Value which is collected by Zomato for, and on behalf of, the Restaurant Partner in accordance with these Terms, shall be passed on by Zomato to the Restaurant Partner subject to the deduction of the following amounts (as applicable) by Zomato from such Order amount:
+
+a. Service fee (For cash on delivery orders and online paid Orders);
+
+b. amount of Payment Mechanism Fee due from Restaurant Partner;
+
+c. amount of tax collected by Zomato in case of Restaurant Service provided by Restaurant Partner though the Zomato Platform; and
+
+d. any other amount that are due to Zomato under the Form or on account of other services availed by Restaurant Partner from Zomato, to which specific consent of the Restaurant Partner is accorded.
+
+ii. The Parties acknowledge and agree that after the deduction of the aforementioned amounts, Zomato shall remit the Order Value due to the Restaurant Partner on a weekly settlement basis(or within a period of 3 bank working days if opted for by the Restaurant Partner in the Form) from the date the payment of the Order Value is received by Zomato. For weekly settlement of the Order Value, the Parties acknowledge and agree that after the deduction of the aforementioned amounts, Zomato shall remit the Order Value due to the Restaurant Partner on a weekly basis after allowing reasonable time for adjustments towards Orders for which the Customers have either refused to pay or have claimed a refund, as applicable (but in accordance with the guidelines prescribed by Reserve Bank of India for payment systems and nodal account) ("Payment Settlement Day"). The Payment Settlement Day for Orders serviced from Monday to Sunday shall be on or before Thursday of the following week. If the Payment Settlement Day falls on a bank holiday it shall be the following working day.
+
+iii. Notwithstanding anything to the contrary contained in these Terms or the Form, the Restaurant Partner, on behalf of itself and all its affiliates, hereby unconditionally and irrevocably authorises Zomato to set off, withhold and deduct any amounts owed by the Restaurant Partner or its affiliates to any Zomato Group Company under any agreement, arrangement or understanding between the Zomato Group Company and the Restaurant Partner or its affiliates, from the Net Order Value, and apply such amounts towards the dues owed by the Restaurant Partner or its affiliates to the Zomato Group Company. Without prejudice to the other provisions of the Form or these Terms, and solely for the purposes of this Clause 10 (iii), the Restaurant Partner hereby agrees, acknowledges and confirms that the amounts so set off, withheld and applied in the aforesaid manner shall be deemed to form part of the Service fee payable by the Restaurant Partner to Zomato under the Form and these Terms. For purposes of the provisions of this clause 10(iii), the term Zomato Group Company shall be deemed to include any of Zomato's current and former, direct and indirect, subsidiaries and/or controlled affiliates as well as any successor to Zomato or all or any material portion of the businesses and/or assets of Zomato or any successor thereto or any of its direct and indirect, subsidiaries and/or controlled affiliates.
+
+10. Charges
+In consideration of the Services offered by Zomato to the Restaurant Partner, the Restaurant Partner undertakes to pay to Zomato charges including Service fee, Payment Mechanisn Fee, at the rates set out in the Form.
+
+The Restaurant Partner acknowledges and agrees that where Zomato extends additional support services to the Restaurant Partner and/or Customers and incurs corresponding support costs, or where Zomato issues refunds to the Customers on account of acts or omissions attributable to the Restaurant Partner, including but not limited to, frequent rejection or time-out of Order(s), delay in accepting or handing over the Order(s), poor quality food, missing or incorrect item, poor quality packaging, etc, as may be communicated to the Restaurant Partner in the periodic reports, Zomato reserves the right to charge additional amount(s) as highlighted below:
+
+Description	Charges and Deductions	Effective from	Remarks
+Charges for Orders requiring support [1]	If Orders requiring support exceed more than 5% of weekly Order volume: INR 10.00 per Order for all Orders requiring support	Effective Date	Exception for new Restaurant for two (2) weeks from the Effective Date. The Restaurant Partner agrees that this amount will be deducted from its ongoing payouts.
+Charges for Restaurant Partner rejected Orders [2]	
+If weekly Restaurant Partner rejected Orders exceed more than 0.5% of weekly Order volume: 10% of the Net Order Value of all Restaurant Partner rejected Orders, for the relevant week(s).
+
+
+If weekly Restaurant Partner rejected Orders exceed more than 2% of weekly Order volume : 25% of the Net Order Value of all Restaurant Partner rejected Orders, for the relevant week(s)
+Effective Date	Exception for new Restaurant for two (2) weeks from the Effective Date. The Restaurant Partner agrees that this amount will be deducted from its ongoing payouts.
+Orders requiring support: Orders where support teams extend additional support to mitigate customer escalations including but not limited to, delay in accepting or handing over the Order(s), poor quality food, missing or incorrect item, poor quality packaging, etc.
+Restaurant Partner rejected Orders: Orders which are not accepted (i.e., on account of rejection or inaction resulting in time-out)by the Restaurant Partner or accepted but not fulfilled by the Restaurant Partner.
+From time to time, Zomato may change the fees for the Services, including without limitation the Service fee rates, Payment Mechanism Fee, any other charges/fees or include any additional charges/fee, with intimation to the Restaurant Partner seven (7) days prior to the date such change(s) or additional charges are to take effect.
+
+11. Taxes
+Notwithstanding anything to the contrary herein, the Restaurant Partner is, and will be, responsible for all taxes, payments, fees, and any other liabilities associated with the computation, payment, and collection of taxes in connection with Customer Orders for supply other than Restaurant Service and the Restaurant Partner’s use of the Platform and Zomato Services. Zomato may charge and collect applicable taxes from Customers on behalf of the Restaurant Partner in accordance with instructions provided by the Restaurant Partner and/or applicable law; and, in which case, Zomato will collect such tax solely on behalf of the Restaurant Partner and shall pay such amount collected to the Restaurant Partner. The Restaurant Partner shall be solely responsible for verifying amounts collected, filing the appropriate tax returns, and remitting the proper amount to the appropriate tax authorities. Taxes shall include all applicable taxes due in relation to the sale of food and beverages, including pick-up and delivery services (if applicable), by the Restaurant Partner. It is clarified that Zomato will not be liable for payment of any Taxes that the Restaurant Partner is liable to pay in connection with supply other than Restaurant Services which shall be provided by the Restaurant Partner to the Customers in accordance with these Terms and that the Restaurant Partner hereby undertakes to indemnify, defend and hold harmless, Zomato and each of its affiliates and (as applicable) all of their directors, officers employees, representatives and advisors against any tax liability that may arise against Zomato on account of the non-payment of Taxes by the Restaurant Partner under these Terms. Restaurant Partner will be required to deposit relevant taxes, including tax deducted at source (TDS) on the service fee payable to Zomato. However, in case where Zomato withholds its Service fee before remitting the settlement dues to the Restaurant Partner, Zomato shall refund the TDS to the Restaurant Partner subject to submission of the TDS certificate on a quarterly basis within sixty (60) days from the end of the quarter.
+
+Tax paid by Zomato on Restaurant Service under GST laws ('Tax u/s 9(5) of Central Goods and Services Tax Act, 2017'):
+
+W.e.f. 01 January 2022, notwithstanding anything to the contrary herein, Zomato is, and will be, responsible for payment and collection of taxes in connection with Customer Orders of Restaurant Service. Zomato will collect applicable taxes from Customers on behalf of the Restaurant Partner in accordance with GST laws and deposit the same to the proper amount to the appropriate tax authorities. Taxes shall include all applicable taxes due in relation to the supply of Restaurant Service including pick-up and delivery services (if applicable), by the Restaurant Partner. Restaurant Partner(s) will be required to deposit relevant taxes, including tax deducted at source (TDS) on the service fee payable to Zomato. However, in case where Zomato withholds its Service fee before remitting the settlement dues to the Restaurant Partner, Zomato shall refund the TDS to the Restaurant Partner subject to submission of the TDS certificate on a quarterly basis within sixty (60) days from the end of the quarter.
+
+For the purpose of clarification, as per Section 9(5) of Central Goods and Services Tax Act, 2017, with effect from 1 January 2022, tax on supply of specified Restaurant Service supplied by Restaurant(s) through e-commerce platform shall be paid by such e-commerce operators.
+
+Tax collected at source:
+W.e.f. 01st October, 2018, Zomato is required to collect taxes at source on Gross Sales (less applicable taxes charged by Restaurant(s) on Supply of Food and Beverages Items other than supply of Restaurant Service, at such rates as required by the applicable tax laws (“TCS”). The TCS shall be collected on the date of acceptance of Order. The Restaurant Partner shall be solely responsible to provide correct GSTIN details to Zomato and reconcile the TCS with the tax statements provided by Zomato from time to time, as required by applicable laws. Zomato shall remit TCS to the respective Central Government and State Government/Union Territory and such remittance(s) shall be considered as complete fulfillment of Zomato's obligations in this regard. TheRestaurant Partner may be eligible to claim TCS credit on the basis of tax returns filed by it with the relevant government/statutory/tax authorities. Restaurant Partner acknowledges and agrees that in the event of any discrepancy between the tax returns/entries filed by Restaurant Partner and those filed by Zomato, the tax returns/entries present and filed by Zomato shall have a precedence over the tax returns/entries filed by Restaurant Partner.
+
+Zomato shall share a monthly TCS statement along with invoice with Restaurant Partner to report transactions undertaken during the month in its applicable returns.
+
+Tax Deducted at Source under Income Tax Act (‘TDS u/s 194-O’):
+W.e.f. 01st October, 2020, Zomato is required to deduct taxes at source from the amount for all Orders that are settled via Zomato’s Platform. TDS u/s 194-O shall be applied on Gross Sales (less applicable taxes charged by the Restaurant) as per the applicable tax law on the rate as applicable and amended from time to time. Zomato hereby clarifies that TDS u/s 194-O shall be deducted under the Payment Settlement Process set out in the Form and these Terms.
+
+The Restaurant Partner shall be solely responsible to provide correct PAN details to Zomato and reconcile the income tax deducted with the order transaction report and certificates provided by Zomato from time to time. Zomato shall remit income tax deducted to the respective Government account and report against the PAN as available on Zomato records. Such remittance(s) and reporting shall be considered as complete fulfilment of Zomato's obligations in this regard.
+
+Zomato will share a quarterly TDS certificate with Restaurant Partner as per applicable tax law. The Restaurant Partner may be eligible to claim credit of the income tax deducted on the basis of tax returns filed by it with the relevant government tax authorities. Restaurant Partner acknowledges and agrees that it is the Restaurant Partner’s responsibility to reconcile and claim correct credit for the income tax deducted for which the Restaurant Partner may be eligible as per the applicable laws. Restaurant Partner also agrees that in the event of any discrepancy between the returns filed by the Restaurant Partner and those filed by Zomato, the amount reported by Zomato shall have a precedence over the tax returns filed by the Restaurant Partner.
+
+Any discrepancy identified at the time of reconciliation by the Restaurant Partner should be brought to the attention of Zomato within a period of fifteen (15) days from the date of receipt of TDS Certificate. Any delay on this account will relieve Zomato of any obligation to undertake a corrective action to resolve the discrepancy. Under no circumstances, Zomato shall entertain any discrepancy in the reported value after 31st July of the year following the financial year to which the transactions were undertaken and reported.
+
+Restaurant Partner agrees and acknowledges that Zomato shall not be held liable in any manner in the event the Restaurant Partner does not receive the benefit of income tax deducted due to incorrect particulars provided by the Restaurant Partner to Zomato.
+
+12. Confidentiality
+i. Other than for provision of Service(s) by Zomato, Zomato does not share any other information of the Restaurant Partner with third parties unless requisitioned by government authorities.
+
+ii. Other than for the purpose of availing Service(s) from Zomato, the Restaurant Partner must not disclose any confidential information about Zomato, including but not limited to these Terms, its business strategies, pricing, revenues, expenses, Customer Data, and Order information to third parties.
+
+13. Warranty and Indemnity
+i. Restaurant Partner warrants that if the Restaurant Partner ceases to do business, closes operations for a material term or is otherwise unable to offer services to Customers it will inform Zomato promptly. Where the Restaurant Partner neglects to do so, whether by omission or fault, Zomato will not be held responsible for any liabilities, whether financial or otherwise.
+
+ii. Restaurant Partner warrants that it will not offer for sale any potentially hazardous food, alcoholic beverage, tobacco product, or any other item prohibited by law.
+
+iii. Zomato warrants that it will undertake its obligations with reasonable skill and care.
+
+iv. Zomato does not guarantee or warrant that the Platform, Application, Tablet, Zomato Device, software, hardware or services will be free from defects or malfunctions. If errors occur, it will use its best endeavours to resolve these as quickly as possible.
+
+v. Restaurant Partner warrants that it complies and will remain compliant with the Food Safety and Standards Act, 2006, Legal Metrology Act, 2009 and the applicable rules and regulations made thereunder and any other requirements or applicable law in the relevant State or Territory and all other applicable legislation, regulations or standards.
+
+vi. Restaurant Partner warrants to procure and keep valid during the subsistence of these Terms, all requisite licenses and/or registrations thereunder and provide copy of such licenses and/or registrations to Zomato prior to availing the Services.
+
+vii. The Restaurant Partner agrees to indemnify and hold Zomato (and its directors, officers, agents, representatives and employees) harmless from and against any and all claims, suits, liabilities, judgments, losses and damages arising out of or in connection with any claim or suit or demand:
+
+a. by a Customer (or any party on whose behalf a Customer has been acting), for reasons not attributable to the Service;
+
+b. By a Customer (or any party on whose behalf a Customer has been acting) or any third party In respect of, arising out of or relating to the Content, Information or material provided by the Restaurant Partner to Zomato, to be listed on the Platform.
+
+c. in respect of, arising out of, or in connection with, Restaurant Services (or any other services actually or purportedly offered in respect of or connected to the Restaurant Services) and delivery of such Restaurant Services when undertaken by the Restaurant Partner;
+
+d. in respect of or connected to the collection or payment of applicable taxes in any way connected to these Terms or any matter or goods or services under or arising from it (e.g. Services);
+
+e. in respect of quality of the Restaurant Services provided by the Restaurant Partner;
+
+f. in respect of the warranties provided by the Restaurant Partner in Clause 13 (Warranty and Indemnity) hereto;
+
+g. relating to harm caused by the Restaurant Partner supplying any unsafe Restaurant Services, any product failure, defect or hazard in any Restaurant Services supplied or sold by the Restaurant Partner or inadequate instructions or warnings provided to Customers pertaining to any hazards arising from or associated with the use of any Restaurant Services supplied or sold by the Restaurant Partner;
+
+h. brought either by Zomato and/or third party on account of misuse, abuse, cheating, fraud, misrepresentation carried out by the Restaurant Partner;
+
+i. in respect of, arising out of or in connection of any use of the Customer Data, not in accordance with the Terms and/or the applicable law;
+
+j. for any misleading or incorrect or false, information or data provided by the Restaurant Partner;
+
+k. misuse and/ or unauthorized or fraudulent use of SIM card provided along with Zomato Tablet/ Zomato Device;
+
+l. damage or loss to the Tablet / Zomato Device;
+
+viii. The Restaurant Partner acknowledges that it supplies certain rights to Zomato to enable Zomato to provide services to the Customer. Zomato will not be liable for any applicable taxes liability in respect of Supply of Foods and Beverages Items other than Restaurant Service by Restaurant Partner to Customers and the Restaurant Partner hereby indemnifies Zomato against any applicable taxes it may become liable for arising out of such transactions.
+
+14. Customer Data
+The Restaurant Partner agrees that the Restaurant Partner will only use the Customer Data in fulfilling the applicable Customer Order and in complying with the Restaurant Partner's obligations in this Form, and the Restaurant Partner agrees that Customer Data will not be used to enhance any file or list of the Restaurant Partner or any third party. The Restaurant Partner represents, warrants, and covenants that it will not resell, broker or otherwise disclose any Customer Data to any third party, in whole or in part, for any purpose whatsoever. The Restaurant Partner agrees it shall not use the Customer Data for sending any unsolicited marketing message, announcements and for feedback purposes, and shall be solely liable to ensure that any third party with whom Customer Data is shared complies with the restrictions set forth herein. The Restaurant Partner agrees that it will not copy or otherwise reproduce any Customer Data other than for the purpose of fulfilling the applicable Customer Order. The Restaurant Partner (and any other persons to whom the Restaurant Partner provides any Customer Data) will implement and comply with reasonable security measures in protecting, handling, and securing the Customer Data. If any Customer Data is collected by the Restaurant Partner (or otherwise on its behalf), the Restaurant Partner shall ensure that it (and any applicable third parties) adopt, post, and process the Customer Data in conformity with an appropriate and customary privacy policy. For purposes of this Form, the restrictions set forth herein on the Restaurant Partner's use of Customer Data do not apply to: (a) data from any Customer who was a customer of Restaurant Partner prior to the Restaurant Partner using the Platform or the Zomato Services, but only with respect to data that was so previously provided to the Restaurant Partner by such Customer; or (b) data supplied by a customer directly to the Restaurant Partner who becomes a customer of the Restaurant Partner and who explicitly opts in to receive communications from the Restaurant Partner for the purposes for which such Customer Data will be used by Restaurant Partner; and, provided in all cases, that the Restaurant Partner handles and uses such Customer Data in compliance with applicable Laws and the Restaurant Partner's posted privacy policy.
+
+15. Term and Termination
+The arrangement between parties shall start on the Execution Date and unless terminated earlier under this clause shall continue indefinitely. Either Party may terminate the arrangement, with or without cause, at any time upon seven (7) days prior written notice to the other party.
+
+Zomato may terminate the arrangement or suspend the Services of the Restaurant Partner with immediate effect if:
+
+a. the Restaurant Partner fails to conduct its business in accordance with these Terms and /or in accordance with the information given to Zomato, such as Restaurant Partner proprietary rights, opening hours, delivery areas, delivery conditions, nature of food served or prices;
+
+b. the user experience for the Restaurant Partner is not found satisfactory as per the Zomato standards;
+
+c. for a continuous period of 14 days, the Restaurant Partner fails to deliver Order(s) which are not fraudulent or unintentional;
+
+d. upon the happening of any of the insolvency events such as bankruptcy, appointment of receiver, administrator, liquidator, winding up, dissolution;
+
+e. Zomato identifies any fraudulent or suspicious activity on the Restaurant Partner’s account;
+
+f. the Restaurant Partner fails to comply with Applicable Law and/or these Terms,; and/or
+
+g. in case Zomato conducts any investigation to ensure Restaurant Partner’s compliance with the Applicable Law and/or these Terms.
+
+Parties may terminate their arrangement with immediate effect by notice in writing to the other party if the other party commits a material breach, which, in the case of a material breach capable of remedy, is not remedied within 14 days after written notice is given to the breaching party, specifying the default. Termination of the arrangement: (a) in accordance with its Terms, shall not affect the accrued rights or liabilities of the parties at the date of termination; and (b) shall have no effect on: (i) the validity of Services already issued to Customers; or (ii) Restaurant Partner’s obligations to pay for Services availed in accordance with this Agreement.
+
+Zomato, at its sole discretion, reserves the right to suspend and/or terminate the Services immediately with a prior notice to the Restaurant Partner on account of any alleged or threatened or actual (a) suspicious activity; and /or (b) breach of any intellectual property right of Zomato or any third party by the Restaurant Partner; and/or (c) any false misrepresentation by the Restaurant Partner; and/or (d).fraudulent activity. The Restaurant Partner hereby agrees and acknowledges that in addition to the aforementioned right to terminate and/or suspend the Services, Zomato shall also have the right to withhold, set off and deduct any payments that may be due to the Restaurant Partner from Zomato. Without prejudice to the other provisions of the Form or these Terms, and solely for the purposes of this Clause, the Restaurant Partner hereby agrees, acknowledges and confirms that the amounts so set off, withheld and applied in the aforesaid manner shall be deemed to form part of the Service fee payable by the Restaurant Partner to Zomato under the Form and these Terms.
+
+16. Notice requirements
+Factors that prevent you from fulfilling your obligations towards Zomato or Customers should promptly be reported to Zomato by contacting the account manager appointed by Zomato or by writing an email to priority@zomato.com.
+
+17. Disclaimers
+To the fullest extent permitted by law, Zomato and its affiliates, and each of their respective officers, directors, members, employees, and agents disclaim all warranties, express or implied, in connection with this Form, the Platform and the Zomato services and any use thereof, including, without limitation, the implied warranties of merchantability, fitness for a particular purpose and non-infringement. Zomato makes no warranties or representations about the accuracy or completeness of the content and data on the Platform or the Zomato services' content or the content of any other websites linked to the website, and assumes no liability or responsibility for any (a) errors, mistakes, or inaccuracies of content and materials, (b) personal injury or property damage, of any nature whatsoever, resulting from the Restaurant Partner's access to and use of the Platform and the Zomato services, (c) any unauthorized access to or use of Zomato' servers and/or any and all personal information and/or financial information stored therein, (d) any interruption or cessation of transmission to or from the website or otherwise with respect to the Zomato services, (e) any bugs, viruses, trojan horses, or the like which may be transmitted to or through the website or the Zomato services by any third party, and/or (f) any errors or omissions in any content and materials or for any loss or damage of any kind incurred as a result of the use of any content posted, transmitted, or otherwise made available via the website or the Zomato Services.
+
+18. Limitation of Liability
+For the purposes of this clause, "Liability" means liability in or for breach of contract, negligence, misrepresentation, tortious claim, restitution or any other cause of action whatsoever relating to or arising under or in connection with this Form, including liability expressly provided for under this Form or arising by reason of the invalidity or unenforceability of any term of this Form. Zomato does not exclude or limit Liability for any Liability that cannot be excluded by law. Subject to the preceding sentence, Zomato shall not be under any Liability for loss of actual or anticipated profits, loss of goodwill, loss of business, loss of revenue or of the use of money, loss of contracts, loss of anticipated savings, loss of data and/or undertaking the restoration of data, fraudulent Orders, any special, indirect or consequential loss, and such liability is excluded whether it is foreseeable, known, foreseen or otherwise. For the avoidance of any doubt, this clause shall apply whether such damage or loss is direct, indirect, consequential or otherwise. Although Zomato will use its best endeavours to ensure that the unintentional operational errors do not occur, Zomato cannot provide any warranty or guarantee in this regard. Notwithstanding anything to the contrary herein set out, Zomato’s aggregate liability under this Form shall not exceed the total value of the Order under which the claim arose.
+
+19. Miscellaneous
+i. Governing Law and Dispute Resolution: This Form shall be governed by the Laws of India, for the time being in force and the courts of New Delhi shall have the exclusive jurisdiction to preside over matters arising hereunder. Parties shall first endeavour to resolve their disputes amicably within fifteen (15) days from the date on which the dispute was first notified. Failing which, the dispute shall be referred to court.
+
+ii. Waiver: The failure of either party to assert any of its rights under the Form, including, but not limited to, the right to terminate the Form in the event of breach or default by the other party, will not be deemed to constitute a waiver by that party of its right thereafter to enforce each and every provision of the Form in accordance with these Terms.
+
+iii. Invalidity or unenforceability of any provision of or right arising pursuant to these Terms shall not adversely affect the validity or enforceability of the remaining obligations or provisions.
+
+iv. No third party rights: No term of this Form shall be enforceable by a third party.
+
+v. No assignment: The Restaurant Partner must not assign, transfer, charge or otherwise encumber, create any trust over or deal in any manner with this Form or any right, benefit or interest under it, nor transfer, novate or sub-contract any of the Restaurant Partner’s obligations under it.
+
+vi. Independent contractors: The Form does not create any agency, employment, partnership, joint venture, or other joint relationship. Zomato and the Restaurant Partner are independent contractors and neither has any authority to bind the other.
+
+vii. Change of control: The Restaurant Partner acknowledges that the business and assets of Zomato may be sold in the future and consents to the transfer or disclosure of its personal Information and this Form to any purchaser of the business of Zomato or its assets if that outcome occurs.
+
+viii. Acceptance to Zomato’s Privacy Policy: by signing the Form, the Restaurant Partner acknowledges and agrees to be bound by Zomato’s privacy policy. Restaurant Partner will immediately notify Zomato if it becomes aware of or suspects any unauthorized use or access to the user data or any other Confidential Information of Zomato, and shall co-operate with Zomato in investigation of such breach and the mitigation of any damage.
+
+20. Modification
+Zomato may modify these Terms from time to time, and any such changes will (i) be reflected on the Website, and (ii) be effective immediately upon the changes being reflected on the Platform. The Restaurant Partner agrees to be bound to any such changes or modifications and understands and accepts the importance of regularly reviewing these Terms as updated on the Platform.
+
+Further, in the event Zomato upgrades, modifies or replaces the Services ("Service Modifications") offered to the Restaurant Partner, Zomato will notify the Restaurant Partner prior to making the same and give the Restaurant Partner the opportunity to review and comment on the Service Modifications before continuing to use the Service or any alternative service offered by Zomato. The Service Modifications will also be reflected on the Platform. If the Restaurant Partner continues to use the Service or any alternate service offered by Zomato, following any notice of the Service Modifications, it shall constitute the Restaurant Partner’s acceptance of such Service Modifications.
