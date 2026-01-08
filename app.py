@@ -1,4 +1,5 @@
 import streamlit as st
+
 from src.ai_engine.inference import run_inference
 from src.core.url_extractor import extract_tc_text
 
@@ -14,8 +15,7 @@ header {visibility: hidden;}
     background: radial-gradient(ellipse at bottom, #020617 0%, #000000 65%);
     color: white;
     position: relative;
-    overflow-y: auto;      /* ✅ ONLY FIX */
-    overflow-x: hidden;
+    overflow: hidden;
 }
 
 /* FAR STARS */
@@ -69,6 +69,7 @@ header {visibility: hidden;}
     40% { transform: translate(-1200px,1200px) rotate(-45deg); opacity: 0; }
     100% { opacity: 0; }
 }
+
 .shooting-star {
     position: fixed;
     top: -150px;
@@ -172,6 +173,29 @@ header {visibility: hidden;}
     border: 1px dashed rgba(255,255,255,0.15);
 }
 
+/* ANIMATIONS */
+@keyframes earth-spin {
+    from { background-position: 0 0; }
+    to { background-position: -5400px 0; }
+}
+@keyframes cloud-spin {
+    from { background-position: 0 0; }
+    to { background-position: -5400px 0; }
+}
+@keyframes earth-drift {
+    0% { transform: translate(0,0); }
+    50% { transform: translate(-80px, 30px); }
+    100% { transform: translate(0,0); }
+}
+@keyframes moon-orbit {
+    from { transform: rotate(0deg); }
+    to { transform: rotate(360deg); }
+}
+@keyframes aurora-pulse {
+    0%,100% { opacity: 0.4; }
+    50% { opacity: 0.75; }
+}
+
 /* ================= GLASS UI ================= */
 .full-summary-box {
     background: rgba(255,255,255,0.06);
@@ -187,25 +211,60 @@ header {visibility: hidden;}
 
 <div class="stars-near"></div>
 <div class="nebula"></div>
+
+<!-- Shooting stars (multiple instances) -->
+<div class="shooting-star" style="right:10%; animation-delay:0s;"></div>
+<div class="shooting-star" style="right:35%; animation-delay:3s;"></div>
+<div class="shooting-star" style="right:60%; animation-delay:6s;"></div>
+
+<div class="earth-system">
+    <div class="earth">
+        <div class="aurora"></div>
+        <div class="clouds"></div>
+        <div class="orbit-ring"></div>
+        <div class="moon-orbit">
+            <div class="moon"></div>
+        </div>
+    </div>
+</div>
 """, unsafe_allow_html=True)
 
 # ================= APP UI =================
 st.title("📜 Terms & Conditions Risk Analyzer")
 
-mode = st.radio("Choose input type", ["Paste Text", "Enter URL"])
-input_text = ""
+mode = st.radio("Choose input type", ["Enter Text", "Enter URL"])
 
-if mode == "Paste Text":
-    input_text = st.text_area("Paste Terms & Conditions text", height=250)
+with st.form("analyze_form", clear_on_submit=False):
 
-if mode == "Enter URL":
-    url = st.text_input("Enter Terms & Conditions URL")
-    if url:
-        with st.spinner("Extracting text from URL..."):
-            input_text = extract_tc_text(url)[:6000]
+    input_text = ""
+
+    # ---------- TEXT MODE ----------
+    if mode == "Enter Text":
+        input_text = st.text_area(
+            "Enter Terms & Conditions text",
+            height=250,
+            help="Press Enter to Analyze • Shift+Enter for new line"
+        )
+
+    # ---------- URL MODE ----------
+    if mode == "Enter URL":
+        url = st.text_input(
+            "Enter Terms & Conditions URL",
+            help="Press Enter to Analyze"
+        )
+
+    submitted = st.form_submit_button("Analyze")
 
 # ================= ANALYZE =================
-if st.button("Analyze"):
+if submitted:
+
+    if mode == "Enter URL":
+        if not url.strip():
+            st.warning("Please enter a URL.")
+        else:
+            with st.spinner("Extracting text from URL..."):
+                input_text = extract_tc_text(url)[:6000]
+
     if not input_text.strip():
         st.warning("Please provide input text or URL.")
     else:
